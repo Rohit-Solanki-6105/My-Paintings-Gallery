@@ -3,7 +3,6 @@ import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Paintings from "@/components/Paintings";
 import { FloatingNav } from "@/components/ui/FloatingNav";
-import { Main } from "next/document";
 import { Suspense } from "react";
 import { IoHome, IoPencilOutline } from "react-icons/io5";
 import { ParallaxProvider } from "react-scroll-parallax";
